@@ -24,9 +24,8 @@
 - `before.mp4` - the original game: fast swipes pass through fruit and there is no game-over screen.
 - `after.mp4` - the updated game: fast swipes slice, game-over screen, restart on Hard.
 - `chat_history.pdf` - the LLM chat used for the four tasks.
+- `Lab4_PES1UG24CS108_B.pdf` - submission document with the deliverables and prompts.
 - `main.py`, `requirements.txt`, `game/` - the updated code.
-
-The two videos are captures rendered from the game code with scripted mouse input, so they have no audio.
 
 ## Running the game
 
